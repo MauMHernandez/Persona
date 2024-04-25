@@ -7,7 +7,7 @@ class mainPersona {
         int age;
         double heigh;
 
-        Scanner paco=new Scanner(System.in);
+        Scanner paco =new Scanner(System.in);
         System.out.println("proporciona tu nombre");
         name=paco.nextLine ();
         System.out.println("proporciona tu apellido");
